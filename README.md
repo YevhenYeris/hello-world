@@ -1,2 +1,2 @@
 # hello-world
-this is repo u slaves
+this is repo indeed
